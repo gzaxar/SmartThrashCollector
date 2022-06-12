@@ -1,3 +1,4 @@
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -12,7 +13,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=File-List href="SmartThrashCollector_file/filelist.xml">
 <link rel=Edit-Time-Data href="SmartThrashCollector_file/editdata.mso">
 <!--[if !mso]>
-
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
 <![endif]--><!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>PC08</o:Author>
@@ -17254,7 +17260,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  0cm none black;mso-padding-between:0cm;padding-bottom:0cm;mso-padding-bottom-alt:
  0cm;border-bottom:0cm none black;mso-border-bottom-alt:0cm none black'><!--[if supportFields]><span
  lang=EL><span style='mso-element:field-begin'></span><span
- style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \n \h \z \u <span
+ style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \n \h \z \u <span
  style='mso-element:field-separator'></span></span><![endif]--><span lang=EL><span
  class=MsoHyperlink><span style='mso-no-proof:yes'><a href="#_Toc105962768"><span
  style='mso-fareast-language:IT'>1</span><span lang=IT style='mso-ascii-font-family:
@@ -17262,7 +17268,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
  minor-latin;mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
  color:windowtext;mso-ansi-language:IT;mso-fareast-language:IT;text-decoration:
- none;text-underline:none'><span style='mso-tab-count:1'>          </span></span><span
+ none;text-underline:none'><span style='mso-tab-count:1'>          </span></span><span
  style='mso-fareast-language:IT'>ΣΕΝΑΡΙΟ ΧΡΗΣΗΣ</span></a></span></span></span><span
  style='mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
@@ -17279,7 +17285,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>ΣΤΟΧΟΣ ΕΦΑΡΜΟΓΗΣ</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17295,7 +17301,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>Εισαγωγή</span></a></span></span><span style='mso-ascii-font-family:Calibri;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
@@ -17311,7 +17317,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>Σενάριο Δραστηριότητας</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17327,7 +17333,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>Φάση Προετοιμασίας</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17343,7 +17349,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>Σχεδιασμός</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17359,7 +17365,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>Υλοποίηση</span></a></span></span><span style='mso-ascii-font-family:Calibri;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
@@ -17375,7 +17381,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>Φάση δοκιμών</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17391,7 +17397,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>          </span></span><span style='mso-fareast-language:
  IT'>ΕΙΣΑΓΩΓΗ</span></a></span></span><span style='mso-ascii-font-family:Calibri;
  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-fareast-theme-font:
  minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
@@ -17407,7 +17413,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
  IT'>ΠΛΑΤΦΟΡΜΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ</span></a></span></span><span
  style='mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
@@ -17424,7 +17430,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
  IT'>Κώδικας Arduino IDE</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17440,7 +17446,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
  IT'>Λίστα υλικών</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17456,7 +17462,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
  IT'>Δυσκολίες που αντιμετωπίσαμε :</span></a></span></span><span
  style='mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
  mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
@@ -17473,7 +17479,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
  IT'>Μελλοντικές εξελίξεις:</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
@@ -17489,7 +17495,7 @@ lang=EL style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-
  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
  "Times New Roman";mso-bidi-theme-font:minor-bidi;color:windowtext;mso-ansi-language:
  IT;mso-fareast-language:IT;text-decoration:none;text-underline:none'><span
- style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
+ style='mso-tab-count:1'>        </span></span><span style='mso-fareast-language:
  IT'>Συμπεράσματα</span></a></span></span><span style='mso-ascii-font-family:
  Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;
  mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
