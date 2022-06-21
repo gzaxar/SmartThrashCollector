@@ -3600,8 +3600,8 @@ normal;background:white'><!--[if mso & !supportInlineShapes & supportFields]><sp
 style='mso-element:field-begin;mso-field-lock:yes'></span><span
 style='mso-spacerun:yes'> </span>SHAPE <span
 style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect
- id="Rettangolo_x0020_2" o:spid="_x0000_s1027" alt="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image13.png"
- href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image13.png"
+ id="Rettangolo_x0020_2" o:spid="_x0000_s1027" alt="https://github.com/gzaxar/SmartThrashCollector/images/image13.png"
+ href="https://github.com/gzaxar/SmartThrashCollector/images/image13.png"
  target="&quot;_blank&quot;" style='width:415.7pt;height:254.8pt;visibility:visible;
  mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
  mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
