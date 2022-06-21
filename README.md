@@ -2504,7 +2504,7 @@ BgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADKBwAAAAA=
  <w:wrap type="none"/>
  <w:anchorlock/>
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
-href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image8.png"
+href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image8.png"
 target="&quot;_blank&quot;"><img border=0 width=430 height=203
 src="SmartThrashCollector_file/Image3.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Start_screen.png"
@@ -2584,7 +2584,7 @@ cnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAMYHAAAAAA==
  <w:wrap type="none"/>
  <w:anchorlock/>
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
-href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image10.png"
+href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image10.png"
 target="&quot;_blank&quot;"><img border=0 width=595 height=392
 src="SmartThrashCollector_file/Image4.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/QRcode1.png"
@@ -2823,7 +2823,7 @@ AAAAnwYAAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAzgcAAAAA
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image016.jpg"
 target="&quot;_blank&quot;"><img border=0 width=359 height=605
-src="SmartThrashCollector_file/image7.png"
+src="SmartThrashCollector_file/Image7.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Screen_Open_Bin.png"
 v:shapes="Rettangolo_x0020_11"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1035" type="#_x0000_t75" style='width:269.2pt;height:453.9pt'>
@@ -2974,7 +2974,7 @@ nAYAAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAywcAAAAA
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image020.jpg"
   target="&quot;_blank&quot;"><img border=0 width=517 height=420
-  src="SmartThrashCollector_file/image9.png"
+  src="SmartThrashCollector_file/Image9.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Design_bin.png"
   v:shapes="Rettangolo_x0020_9"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1033" type="#_x0000_t75" style='width:387.55pt;height:314.9pt'>
@@ -3065,7 +3065,7 @@ ZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADHBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image022.jpg"
 target="&quot;_blank&quot;"><img border=0 width=348 height=229
-src="SmartThrashCollector_file/image10.png"
+src="SmartThrashCollector_file/Image10.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Design_cover.png"
 v:shapes="Rettangolo_x0020_8"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1032" type="#_x0000_t75" style='width:261.1pt;height:171.55pt'>
@@ -3162,7 +3162,7 @@ cnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAMYHAAAAAA==
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image024.jpg"
   target="&quot;_blank&quot;"><img border=0 width=331 height=183
-  src="SmartThrashCollector_file/image11.png"
+  src="SmartThrashCollector_file/Image11.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_Paper.png"
   v:shapes="Rettangolo_x0020_7"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1031" type="#_x0000_t75" style='width:247.95pt;height:137.75pt'>
@@ -3259,7 +3259,7 @@ nAYAAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAywcAAAAA
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image026.jpg"
   target="&quot;_blank&quot;"><img border=0 width=375 height=206
-  src="SmartThrashCollector_file/image12.png"
+  src="SmartThrashCollector_file/Image12.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_Glass.png"
   v:shapes="Rettangolo_x0020_6"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1030" type="#_x0000_t75" style='width:281.1pt;height:154pt'>
@@ -3356,7 +3356,7 @@ AAAAAJ8GAABkcnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAM8HAAAAAA==
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image028.jpg"
   target="&quot;_blank&quot;"><img border=0 width=354 height=206
-  src="SmartThrashCollector_file/image13.png"
+  src="SmartThrashCollector_file/Image13.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_Aluminium.png"
   v:shapes="Rettangolo_x0020_5"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1029" type="#_x0000_t75" style='width:265.45pt;height:154pt'>
@@ -3454,7 +3454,7 @@ ZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADHBwAAAAA=
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image030.jpg"
   target="&quot;_blank&quot;"><img border=0 width=367 height=203
-  src="SmartThrashCollector_file/image14.png"
+  src="SmartThrashCollector_file/Image14.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_organic.png"
   v:shapes="Rettangolo_x0020_4"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1028" type="#_x0000_t75" style='width:275.5pt;height:152.15pt'>
