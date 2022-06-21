@@ -2531,8 +2531,8 @@ normal;background:white'><!--[if mso & !supportInlineShapes & supportFields]><sp
 style='mso-element:field-begin;mso-field-lock:yes'></span><span
 style='mso-spacerun:yes'> </span>SHAPE <span
 style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect
- id="Rettangolo_x0020_14" o:spid="_x0000_s1039" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/QRcode1.png"
- href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image010.jpg"
+ id="Rettangolo_x0020_14" o:spid="_x0000_s1039" alt="https://github.com/gzaxar/SmartThrashCollector/images/image2.png"
+ href="https://github.com/gzaxar/SmartThrashCollector/images/image2.png"
  target="&quot;_blank&quot;" style='width:446.4pt;height:294.25pt;visibility:visible;
  mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
  mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
