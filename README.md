@@ -25,7 +25,7 @@ w\:* {behavior:url(#default#VML);}
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Zachariadis Georgios</o:Author>
-  <o:LastAuthor>ALESINI Arianna ITA GUEST DPO</o:LastAuthor>
+  <o:LastAuthor>Zachariadis Georgios</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>13</o:TotalTime>
   <o:Created>2022-06-21T12:59:00Z</o:Created>
