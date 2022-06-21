@@ -3656,7 +3656,7 @@ AACeBgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADNBwAAAAA=
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image034.jpg"
 target="&quot;_blank&quot;"><img border=0 width=554 height=339
 src="SmartThrashCollector_file/image016.png"
-alt="https://github.com/gzaxar/SmartThrashCollector/images/image13.png"
+alt="https://github.com/gzaxar/SmartThrashCollector/images/Image13.png"
 v:shapes="Rettangolo_x0020_2"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1026" type="#_x0000_t75" style='width:415.7pt;height:254.8pt'>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
