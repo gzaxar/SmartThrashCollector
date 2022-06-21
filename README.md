@@ -2504,10 +2504,10 @@ BgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADKBwAAAAA=
  <w:wrap type="none"/>
  <w:anchorlock/>
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
-href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image8.png"
+href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image3.png"
 target="&quot;_blank&quot;"><img border=0 width=430 height=203
 src="SmartThrashCollector_file/Image3.png"
-alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Start_screen.png"
+alt="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image3.png"
 v:shapes="Rettangolo_x0020_15"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1039" type="#_x0000_t75" style='width:322.45pt;height:152.15pt'>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
