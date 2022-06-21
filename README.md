@@ -1635,9 +1635,9 @@ color:#24292F;mso-ansi-language:EL;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Immagine_x0020_17" o:spid="_x0000_i1041" type="#_x0000_t75"
  style='width:476.25pt;height:143.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="SmartThrashCollector_file/image1.png" o:title="D8D3AB32"/>
+ <v:imagedata src="SmartThrashCollector_file/Image1.png" o:title="D8D3AB32"/>
 </v:shape><![endif]--><![if !vml]><img width=635 height=191
-src="SmartThrashCollector_file/image1.png" v:shapes="Immagine_x0020_17"><![endif]></span><span
+src="SmartThrashCollector_file/Image1.png" v:shapes="Immagine_x0020_17"><![endif]></span><span
 lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'><o:p></o:p></span></p>
 
@@ -2436,7 +2436,7 @@ BgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADKBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image6.png"
 target="&quot;_blank&quot;"><img border=0 width=323 height=536
-src="SmartThrashCollector_file/image2.png"
+src="SmartThrashCollector_file/Image2.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Screen_Start.png"
 v:shapes="Rettangolo_x0020_16"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1040" type="#_x0000_t75" style='width:242.3pt;height:401.95pt'>
@@ -2506,7 +2506,7 @@ BgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADKBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image8.png"
 target="&quot;_blank&quot;"><img border=0 width=430 height=203
-src="SmartThrashCollector_file/image3.png"
+src="SmartThrashCollector_file/Image3.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Start_screen.png"
 v:shapes="Rettangolo_x0020_15"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1039" type="#_x0000_t75" style='width:322.45pt;height:152.15pt'>
@@ -2586,7 +2586,7 @@ cnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAMYHAAAAAA==
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image10.png"
 target="&quot;_blank&quot;"><img border=0 width=595 height=392
-src="SmartThrashCollector_file/image4.png"
+src="SmartThrashCollector_file/Image4.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/QRcode1.png"
 v:shapes="Rettangolo_x0020_14"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1038" type="#_x0000_t75" style='width:446.4pt;height:294.25pt'>
@@ -2666,7 +2666,7 @@ AAAAAAChBgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADQBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image12.png"
 target="&quot;_blank&quot;"><img border=0 width=313 height=525
-src="SmartThrashCollector_file/image5.png"
+src="SmartThrashCollector_file/Image5.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Screen_Connect_Account.png"
 v:shapes="Rettangolo_x0020_13"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1037" type="#_x0000_t75" style='width:234.8pt;height:393.8pt'>
