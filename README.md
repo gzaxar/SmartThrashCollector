@@ -2584,10 +2584,10 @@ cnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAMYHAAAAAA==
  <w:wrap type="none"/>
  <w:anchorlock/>
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
-href="https://github.com/gzaxar/SmartThrashCollector/SmartThrashCollector_file/Image10.png"
+href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image10.png"
 target="&quot;_blank&quot;"><img border=0 width=595 height=392
-src="SmartThrashCollector_file/Image4.png"
-alt="https://github.com/gzaxar/SmartThrashCollector/SmartThrashCollector_file/Image10.png"
+src="SmartThrashCollector_file/Image10.png"
+alt="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image10.png"
 v:shapes="Rettangolo_x0020_14"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1038" type="#_x0000_t75" style='width:446.4pt;height:294.25pt'>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
