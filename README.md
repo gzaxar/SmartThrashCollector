@@ -13,36 +13,42 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=Preview href="SmartThrashCollector_file/preview.wmf">
 <link rel=Edit-Time-Data href="SmartThrashCollector_file/editdata.mso">
 <!--[if !mso]>
-
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
 <![endif]-->
- 
+<title>SmartThrashCollector</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Zachariadis Georgios</o:Author>
-  <o:LastAuthor>Zachariadis Georgios</o:LastAuthor>
+  <o:LastAuthor>ALESINI Arianna ITA GUEST DPO</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>13</o:TotalTime>
-  <o:Created>2022-06-21T12:59:00Z</o:Created>
-  <o:LastSaved>2022-06-21T12:59:00Z</o:LastSaved>
+  <o:TotalTime>58</o:TotalTime>
+  <o:Created>2022-06-21T13:44:00Z</o:Created>
+  <o:LastSaved>2022-06-21T13:44:00Z</o:LastSaved>
   <o:Pages>15</o:Pages>
-  <o:Words>1266</o:Words>
-  <o:Characters>7220</o:Characters>
+  <o:Words>1270</o:Words>
+  <o:Characters>7244</o:Characters>
   <o:Lines>60</o:Lines>
   <o:Paragraphs>16</o:Paragraphs>
-  <o:CharactersWithSpaces>8470</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>8498</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="SmartThrashCollector_file/item0001.xml"
-target="SmartThrashCollector_file/props002.xml">
+<link rel=dataStoreItem href="SmartThrashCollector_file/item0025.xml"
+target="SmartThrashCollector_file/props026.xml">
 <link rel=themeData href="SmartThrashCollector_file/themedata.thmx">
 <link rel=colorSchemeMapping
 href="SmartThrashCollector_file/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:View>Print</w:View>
   <w:SpellingState>Clean</w:SpellingState>
   <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
@@ -798,6 +804,42 @@ p.MsoToc2, li.MsoToc2, div.MsoToc2
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-priority:99;
+	mso-style-link:"Intestazione Carattere";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 240.95pt right 481.9pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-priority:99;
+	mso-style-link:"Piè di pagina Carattere";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 240.95pt right 481.9pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
 p.MsoTitle, li.MsoTitle, div.MsoTitle
 	{mso-style-priority:10;
 	mso-style-unhide:no;
@@ -1017,6 +1059,18 @@ span.Titolo2Carattere
 	color:#2F5496;
 	mso-themecolor:accent1;
 	mso-themeshade:191;}
+span.IntestazioneCarattere
+	{mso-style-name:"Intestazione Carattere";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Intestazione;}
+span.PidipaginaCarattere
+	{mso-style-name:"Piè di pagina Carattere";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Piè di pagina";}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
@@ -1040,6 +1094,12 @@ span.GramE
 	{mso-style-type:export-only;
 	margin-bottom:8.0pt;
 	line-height:107%;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("SmartThrashCollector_file/header.html") fs;
+	mso-footnote-continuation-separator:url("SmartThrashCollector_file/header.html") fcs;
+	mso-endnote-separator:url("SmartThrashCollector_file/header.html") es;
+	mso-endnote-continuation-separator:url("SmartThrashCollector_file/header.html") ecs;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
 	margin:70.85pt 2.0cm 2.0cm 2.0cm;
@@ -1087,313 +1147,411 @@ div.WordSection1
 
 <body lang=IT link="#0563C1" vlink="#954F72" style='tab-interval:35.4pt'>
 
-<div class=WordSection1><w:Sdt SdtDocPart="t" DocPartType="Table of Contents"
- DocPartUnique="t" ID="1855532020">
- <p class=MsoTocHeading style='text-align:justify'><a
- name="user-content-_toc105962768"></a><span style='mso-bookmark:user-content-_toc105962768'><span
- lang=EL style='mso-ansi-language:EL'>Περιεχόμενα<o:p></o:p></span><w:sdtPr></w:sdtPr></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \h \z \u <span
- style='mso-element:field-separator'></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719377"><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-no-proof:
- yes'>ΣΕΝΑΡΙΟ ΧΡΗΣΗΣ</span></span><span style='mso-bookmark:user-content-_toc105962768'><span
+<div class=WordSection1>
+
+<p class=MsoTocHeading style='text-align:justify'><a
+name="user-content-_toc105962768"><span lang=EL style='font-size:12.0pt;
+line-height:107%;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#24292F;mso-ansi-language:EL'><o:p>&nbsp;</o:p></span></a></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='mso-bookmark:user-content-_toc105962768'><b style='mso-bidi-font-weight:
+normal'><u><span style='font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:
+107%'>Smart</span></u></b></span><span style='mso-bookmark:user-content-_toc105962768'><b
+style='mso-bidi-font-weight:normal'><u><span style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:EL'> </span></u></b></span><span
+style='mso-bookmark:user-content-_toc105962768'><b style='mso-bidi-font-weight:
+normal'><u><span style='font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:
+107%'>Thrash</span></u></b></span><span style='mso-bookmark:user-content-_toc105962768'><b
+style='mso-bidi-font-weight:normal'><u><span style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:EL'> </span></u></b></span><span
+style='mso-bookmark:user-content-_toc105962768'><b style='mso-bidi-font-weight:
+normal'><u><span style='font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:
+107%'>Collector</span></u></b></span><span style='mso-bookmark:user-content-_toc105962768'><b
+style='mso-bidi-font-weight:normal'><u><span lang=EL style='font-size:16.0pt;
+mso-bidi-font-size:11.0pt;line-height:107%;mso-ansi-language:EL'><o:p></o:p></span></u></b></span></p>
+
+<span lang=EL style='mso-ansi-language:
+ EL'>Περιεχόμενα</span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><!--[if supportFields]><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'></span></span><span
+ style='mso-element:field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-spacerun:yes'> </span>TOC
+ \o &quot;1-3&quot; \h \z \u <span style='mso-element:field-separator'></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722185"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ lang=EL style='mso-ansi-language:EL;mso-no-proof:yes'>ΣΕΝΑΡΙΟ ΧΡΗΣΗΣ</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722185
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>1<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100380035000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722186"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ style='mso-no-proof:yes'>ΣΤΟΧΟΣ ΕΦΑΡΜΟΓΗΣ</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722186
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>1<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100380036000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722187"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ style='mso-no-proof:yes'>Εισαγωγή</span></span></span><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722187
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>2<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100380037000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722188"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ style='mso-no-proof:yes'>Σενάριο Δραστηριότητας</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722188
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>2<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100380038000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722189"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:IT;mso-no-proof:yes'>Φάση Προετοιμασίας</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722189
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>2<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100380039000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722190"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:IT;mso-no-proof:yes'>Σχεδιασμός</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722190
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>2<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390030000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722191"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:IT;mso-no-proof:yes'>Υλοποίηση</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722191
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390031000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722192"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:IT;mso-no-proof:yes'>Φάση&nbsp;δοκιμών</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722192
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390032000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722193"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:IT;mso-no-proof:yes'>ΠΛΑΤΦΟΡΜΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>.. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722193
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390033000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722194"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+ EL;mso-fareast-language:IT;mso-no-proof:yes'>Κώδικας Arduino IDE</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'>. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722194
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>3<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390034000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722195"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT;
+ mso-no-proof:yes'>Δυσκολίες που αντιμετωπίσαμε :</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722195
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>14<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390035000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722196"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT;
+ mso-no-proof:yes'>Μελλοντικές&nbsp;εξελίξεις:</span></span></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'><span
+ style='mso-tab-count:1 dotted'> </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722196
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>14<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390036000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoToc2 style='tab-stops:right dotted 481.4pt'><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><a href="#_Toc106722197"><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
+ style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT;
+ mso-no-proof:yes'>Συμπεράσματα</span></span></span><span style='mso-bookmark:
+ user-content-_toc105962768'><span style='mso-bookmark:_Toc106719377'><span
  style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719377 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>1<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300370037000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719378"><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-no-proof:
- yes'>ΣΤΟΧΟΣ ΕΦΑΡΜΟΓΗΣ</span></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719378 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>1<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300370038000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719379"><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-no-proof:
- yes'>Εισαγωγή</span></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719379 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>2<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300370039000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719380"><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-no-proof:
- yes'>Σενάριο Δραστηριότητας</span></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719380 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>2<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380030000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719381"><span
- style='mso-bookmark:user-content-_toc105962768'><span lang=EL
- style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
- mso-fareast-language:IT;mso-no-proof:yes'>Φάση Προετοιμασίας</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719381 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>2<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380031000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719382"><span
- style='mso-bookmark:user-content-_toc105962768'><span lang=EL
- style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
- mso-fareast-language:IT;mso-no-proof:yes'>Σχεδιασμός</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719382 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>3<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380032000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719383"><span
- style='mso-bookmark:user-content-_toc105962768'><span lang=EL
- style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
- mso-fareast-language:IT;mso-no-proof:yes'>Υλοποίηση</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719383 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>3<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380033000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719384"><span
- style='mso-bookmark:user-content-_toc105962768'><span lang=EL
- style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
- mso-fareast-language:IT;mso-no-proof:yes'>Φάση&nbsp;δοκιμών</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719384 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>3<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380034000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719385"><span
- style='mso-bookmark:user-content-_toc105962768'><span lang=EL
- style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
- mso-fareast-language:IT;mso-no-proof:yes'>ΠΛΑΤΦΟΡΜΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'>.. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719385 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>3<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380035000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719386"><span
- style='mso-bookmark:user-content-_toc105962768'><span lang=EL
- style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
- mso-fareast-language:IT;mso-no-proof:yes'>Κώδικας Arduino IDE</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'>. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719386 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>3<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380036000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719387"><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-language:IT;mso-no-proof:yes'>Δυσκολίες που
- αντιμετωπίσαμε :</span></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'> </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719387 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>14<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380037000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719388"><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-language:IT;mso-no-proof:yes'>Μελλοντικές&nbsp;εξελίξεις:</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'> </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719388 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>14<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380038000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoToc2 style='text-align:justify;tab-stops:right dotted 481.4pt'><span
- style='mso-bookmark:user-content-_toc105962768'></span><a href="#_Toc106719389"><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-language:IT;mso-no-proof:yes'>Συμπεράσματα</span></span><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'><span style='mso-tab-count:1 dotted'>.. </span></span></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-begin'></span><span style='mso-bookmark:user-content-_toc105962768'><span
- style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
- text-decoration:none;text-underline:none'> PAGEREF _Toc106719389 \h <span
- style='mso-element:field-separator'></span></span></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'><span style='color:windowtext;
- display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
- none'>14<!--[if gte mso 9]><xml>
-  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700310039003300380039000000</w:data>
- </xml><![endif]--></span></span><!--[if supportFields]><span style='mso-bookmark:
- user-content-_toc105962768'></span><span style='mso-element:field-end'></span><![endif]--><span
- style='mso-bookmark:user-content-_toc105962768'></span></a><span
- style='mso-bookmark:user-content-_toc105962768'><span style='mso-fareast-font-family:
- "Times New Roman";mso-fareast-theme-font:minor-fareast;mso-fareast-language:
- IT;mso-no-proof:yes'><o:p></o:p></span></span></p>
- <p class=MsoNormal style='text-align:justify'><span style='mso-bookmark:user-content-_toc105962768'></span><!--[if supportFields]><span
- style='mso-bookmark:user-content-_toc105962768'></span><span style='mso-element:
- field-end'></span><![endif]--><span style='mso-bookmark:user-content-_toc105962768'><o:p>&nbsp;</o:p></span></p>
+ text-decoration:none;text-underline:none'><span style='mso-tab-count:1 dotted'>.. </span></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-begin'></span><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'> PAGEREF _Toc106722197
+ \h <span style='mso-element:field-separator'></span></span></span></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><span style='color:windowtext;display:none;mso-hide:screen;
+ mso-no-proof:yes;text-decoration:none;text-underline:none'>14<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100300036003700320032003100390037000000</w:data>
+ </xml><![endif]--></span></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span></a><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'><span style='mso-fareast-font-family:"Times New Roman";
+ mso-fareast-theme-font:minor-fareast;mso-fareast-language:IT;mso-no-proof:
+ yes'><o:p></o:p></span></span></span></p>
+ <p class=MsoNormal><span style='mso-bookmark:user-content-_toc105962768'><span
+ style='mso-bookmark:_Toc106719377'></span></span><!--[if supportFields]><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'></span></span><span style='mso-element:field-end'></span><![endif]--><span
+ style='mso-bookmark:user-content-_toc105962768'><span style='mso-bookmark:
+ _Toc106719377'><o:p>&nbsp;</o:p></span></span></p>
 </w:Sdt>
 
-<h2 style='text-align:justify'><span style='mso-bookmark:user-content-_toc105962768'><o:p>&nbsp;</o:p></span></h2>
+<h2 style='text-align:justify'><span style='mso-bookmark:user-content-_toc105962768'><span
+style='mso-bookmark:_Toc106719377'><span lang=EL style='mso-ansi-language:EL'><o:p>&nbsp;</o:p></span></span></span></h2>
 
-<h2 style='text-align:justify'><span style='mso-bookmark:user-content-_toc105962768'><a
-name="_Toc106719377">ΣΕΝΑΡΙΟ ΧΡΗΣΗΣ</a></span></h2>
+<h2 style='text-align:justify'><span style='mso-bookmark:user-content-_toc105962768'><span
+style='mso-bookmark:_Toc106719377'><a name="_Toc106722185"><span lang=EL
+style='mso-ansi-language:EL'>ΣΕΝΑΡΙΟ ΧΡΗΣΗΣ</span></a></span></span><span
+lang=EL style='mso-ansi-language:EL'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -1443,9 +1601,10 @@ style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
 χρήστες (επιστροφή Δημοτικών τελών ή φόρων) που χρησιμοποιήσαν λιγότερες φορές
 τον κάδο μέσα σε ένα μήνα.<o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719378"></a><a
-name="user-content-_toc105962769"><span style='mso-bookmark:_Toc106719378'>ΣΤΟΧΟΣ
-ΕΦΑΡΜΟΓΗΣ</span></a></h2>
+<h2 style='text-align:justify'><a name="_Toc106722186"></a><a
+name="_Toc106719378"></a><a name="user-content-_toc105962769"><span
+style='mso-bookmark:_Toc106719378'><span style='mso-bookmark:_Toc106722186'>ΣΤΟΧΟΣ
+ΕΦΑΡΜΟΓΗΣ</span></span></a></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -1458,21 +1617,53 @@ mso-ansi-language:EL;mso-fareast-language:IT'>Η εφαρμογή και η χρ
 είχαν ανακυκλωθεί με σωστό τρόπο.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
-"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
-mso-ansi-language:EL;mso-fareast-language:IT'>Εικόνα 1 Σχεδιάγραμμα υψηλού
-επιπέδου εφαρμογής<o:p></o:p></span></p>
+normal;background:white'><span lang=EL style='font-family:"Segoe UI",sans-serif;
+color:#24292F;mso-ansi-language:EL;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Immagine_x0020_17" o:spid="_x0000_i1041" type="#_x0000_t75"
+ style='width:476.25pt;height:143.25pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="SmartThrashCollector_file/image001.png" o:title="D8D3AB32"/>
+</v:shape><![endif]--><![if !vml]><img width=635 height=191
+src="SmartThrashCollector_file/image001.png" v:shapes="Immagine_x0020_17"><![endif]></span><span
+lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
+normal;background:white'><b style='mso-bidi-font-weight:normal'><span lang=EL
+style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'>Εικόνα
+1 Σχεδιάγραμμα υψηλού επιπέδου εφαρμογής<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
 "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
 mso-ansi-language:EL;mso-fareast-language:IT'>&nbsp;<o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719379"></a><a
-name="user-content-_toc105962770"><span style='mso-bookmark:_Toc106719379'></span></a><span
+<h2 style='text-align:justify'><a name="_Toc106722187"></a><a
+name="_Toc106719379"></a><a name="user-content-_toc105962770"><span
+style='mso-bookmark:_Toc106719379'><span style='mso-bookmark:_Toc106722187'></span></span></a><span
 class=SpellE><span style='mso-bookmark:user-content-_toc105962770'><span
-style='mso-bookmark:_Toc106719379'>Εισ</span></span></span><span
-style='mso-bookmark:user-content-_toc105962770'><span style='mso-bookmark:_Toc106719379'>αγωγή</span></span></h2>
+style='mso-bookmark:_Toc106719379'><span style='mso-bookmark:_Toc106722187'>Εισ</span></span></span></span><span
+style='mso-bookmark:user-content-_toc105962770'><span style='mso-bookmark:_Toc106719379'><span
+style='mso-bookmark:_Toc106722187'>αγωγή</span></span></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -1496,12 +1687,13 @@ IT'>&nbsp;</span></b><span lang=EL style='font-size:12.0pt;font-family:"Segoe UI
 mso-fareast-font-family:"Times New Roman";color:#24292F;mso-ansi-language:EL;
 mso-fareast-language:IT'><o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719380"></a><a
-name="user-content-_toc105962771"><span style='mso-bookmark:_Toc106719380'></span></a><span
+<h2 style='text-align:justify'><a name="_Toc106722188"></a><a
+name="_Toc106719380"></a><a name="user-content-_toc105962771"><span
+style='mso-bookmark:_Toc106719380'><span style='mso-bookmark:_Toc106722188'></span></span></a><span
 class=SpellE><span style='mso-bookmark:user-content-_toc105962771'><span
-style='mso-bookmark:_Toc106719380'>Σενάριο</span></span></span><span
-style='mso-bookmark:user-content-_toc105962771'><span style='mso-bookmark:_Toc106719380'>
-<span class=SpellE>Δρ</span>αστηριότητας</span></span></h2>
+style='mso-bookmark:_Toc106719380'><span style='mso-bookmark:_Toc106722188'>Σενάριο</span></span></span></span><span
+style='mso-bookmark:user-content-_toc105962771'><span style='mso-bookmark:_Toc106719380'><span
+style='mso-bookmark:_Toc106722188'> <span class=SpellE>Δρ</span>αστηριότητας</span></span></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -1535,12 +1727,13 @@ normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
 "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
 mso-ansi-language:EL;mso-fareast-language:IT'>Ηλικιακή Ομάδα: 11-12<o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719381"></a><a
-name="user-content-_toc105962772"><span style='mso-bookmark:_Toc106719381'><span
+<h2 style='text-align:justify'><a name="_Toc106722189"></a><a
+name="_Toc106719381"></a><a name="user-content-_toc105962772"><span
+style='mso-bookmark:_Toc106719381'><span style='mso-bookmark:_Toc106722189'><span
 lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EL;mso-fareast-language:IT'>Φάση Προετοιμασίας</span></span></a><span lang=EL
-style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
-mso-fareast-language:IT'><o:p></o:p></span></h2>
+EL;mso-fareast-language:IT'>Φάση Προετοιμασίας</span></span></span></a><span
+lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EL;mso-fareast-language:IT'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -1671,10 +1864,12 @@ normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
 mso-ansi-language:EL;mso-fareast-language:IT'>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Αποστείλαμε
 την περίληψη της συμμετοχής μας στον διαγωνισμό<o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719382"><span lang=EL
+<h2 style='text-align:justify'><a name="_Toc106722190"></a><a
+name="_Toc106719382"><span style='mso-bookmark:_Toc106722190'><span lang=EL
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
-mso-fareast-language:IT'>Σχεδιασμός</span></a><span lang=EL style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EL;mso-fareast-language:IT'><o:p></o:p></span></h2>
+mso-fareast-language:IT'>Σχεδιασμός</span></span></a><span lang=EL
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
+mso-fareast-language:IT'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -1738,10 +1933,11 @@ style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
 lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'><o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719383"></a><a
-name="user-content-_toc105962774"></a><span style='mso-bookmark:_Toc106719383'><span
+<h2 style='text-align:justify'><a name="_Toc106722191"></a><a
+name="_Toc106719383"></a><a name="user-content-_toc105962774"></a><span
+style='mso-bookmark:_Toc106722191'><span style='mso-bookmark:_Toc106719383'><span
 lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EL;mso-fareast-language:IT'>Υλοποίηση</span></span><span lang=EL
+EL;mso-fareast-language:IT'>Υλοποίηση</span></span></span><span lang=EL
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
 mso-fareast-language:IT'><o:p></o:p></span></h2>
 
@@ -1817,9 +2013,10 @@ color:#24292F;mso-fareast-language:IT'>project</span><span lang=EL
 style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'><o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719384"><span lang=EL
+<h2 style='text-align:justify'><a name="_Toc106722192"></a><a
+name="_Toc106719384"><span style='mso-bookmark:_Toc106722192'><span lang=EL
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
-mso-fareast-language:IT'>Φάση&nbsp;δοκιμών</span></a><span lang=EL
+mso-fareast-language:IT'>Φάση&nbsp;δοκιμών</span></span></a><span lang=EL
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
 mso-fareast-language:IT'><o:p></o:p></span></h2>
 
@@ -1916,10 +2113,11 @@ mso-fareast-language:IT'>δοκιμών</span><span lang=EL style='font-size:12.
 font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'><o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719385"></a><a
-name="user-content-_toc105962777"><span style='mso-bookmark:_Toc106719385'><span
+<h2 style='text-align:justify'><a name="_Toc106722193"></a><a
+name="_Toc106719385"></a><a name="user-content-_toc105962777"><span
+style='mso-bookmark:_Toc106719385'><span style='mso-bookmark:_Toc106722193'><span
 lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EL;mso-fareast-language:IT'>ΠΛΑΤΦΟΡΜΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ</span></span></a><span
+EL;mso-fareast-language:IT'>ΠΛΑΤΦΟΡΜΕΣ ΠΟΥ ΧΡΗΣΙΜΟΠΟΙΗΘΗΚΑΝ</span></span></span></a><span
 lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
 EL;mso-fareast-language:IT'><o:p></o:p></span></h2>
 
@@ -1955,15 +2153,18 @@ normal;background:white'><span lang=EN-US style='font-size:12.0pt;font-family:
 mso-ansi-language:EN-US;mso-fareast-language:IT'>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Autodesk&nbsp;<span
 class=SpellE>Tinkercad</span><o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719386"><span lang=EL
+<h2 style='text-align:justify'><a name="_Toc106722194"></a><a
+name="_Toc106719386"><span style='mso-bookmark:_Toc106722194'><span lang=EL
 style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
-mso-fareast-language:IT'>Κώδικας </span></a><span class=SpellE><span
-style='mso-bookmark:_Toc106719386'><span lang=EL style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EL;mso-fareast-language:IT'>Arduino</span></span></span><span
-style='mso-bookmark:_Toc106719386'><span lang=EL style='mso-fareast-font-family:
-"Times New Roman";mso-ansi-language:EL;mso-fareast-language:IT'> IDE</span></span><span
+mso-fareast-language:IT'>Κώδικας </span></span></a><span class=SpellE><span
+style='mso-bookmark:_Toc106719386'><span style='mso-bookmark:_Toc106722194'><span
 lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
-EL;mso-fareast-language:IT'><o:p></o:p></span></h2>
+EL;mso-fareast-language:IT'>Arduino</span></span></span></span><span
+style='mso-bookmark:_Toc106719386'><span style='mso-bookmark:_Toc106722194'><span
+lang=EL style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+EL;mso-fareast-language:IT'> IDE</span></span></span><span lang=EL
+style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:EL;
+mso-fareast-language:IT'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EN-US style='font-size:12.0pt;font-family:
@@ -2240,29 +2441,9 @@ BgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADKBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image006.jpg"
 target="&quot;_blank&quot;"><img border=0 width=323 height=536
-src="SmartThrashCollector_file/image001.png"
+src="SmartThrashCollector_file/image002.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Screen_Start.png"
-v:shapes="Rettangolo_x0020_16"></a></span><![endif]><!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><![endif]--><!--[if mso & !supportInlineShapes & supportFields]><v:shape
+v:shapes="Rettangolo_x0020_16"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1040" type="#_x0000_t75" style='width:242.3pt;height:401.95pt'>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
 </v:shape><span style='mso-element:field-end'></span><![endif]--><span
@@ -2330,7 +2511,7 @@ BgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADKBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image008.jpg"
 target="&quot;_blank&quot;"><img border=0 width=430 height=203
-src="SmartThrashCollector_file/image002.png"
+src="SmartThrashCollector_file/image003.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Start_screen.png"
 v:shapes="Rettangolo_x0020_15"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1039" type="#_x0000_t75" style='width:322.45pt;height:152.15pt'>
@@ -2340,12 +2521,10 @@ style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
 "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-normal;background:white'><span class=SpellE><span style='font-size:12.0pt;
-font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#24292F;mso-fareast-language:IT'>Εικόν</span></span><span
+normal;background:white'><b style='mso-bidi-font-weight:normal'><span lang=EL
 style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#24292F;mso-fareast-language:IT'>α 1:&nbsp;<span
-class=SpellE>Κώδικ</span>ας&nbsp;Αρχικής&nbsp;οθόνης<o:p></o:p></span></p>
+"Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'>Εικόνα
+2:&nbsp;Κώδικας&nbsp;Αρχικής&nbsp;οθόνης<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
@@ -2411,8 +2590,8 @@ cnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAMYHAAAAAA==
  <w:anchorlock/>
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image010.jpg"
-target="&quot;_blank&quot;"><img border=0 width=595 height=393
-src="SmartThrashCollector_file/image003.png"
+target="&quot;_blank&quot;"><img border=0 width=595 height=392
+src="SmartThrashCollector_file/image004.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/QRcode1.png"
 v:shapes="Rettangolo_x0020_14"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1038" type="#_x0000_t75" style='width:446.4pt;height:294.25pt'>
@@ -2422,14 +2601,15 @@ style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
 "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
-"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
-mso-ansi-language:EL;mso-fareast-language:IT'>Εικόνα 2: Κώδικας
-δημιουργίας&nbsp;</span><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-IT'>QR&nbsp;CODE</span><span lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#24292F;mso-ansi-language:EL;
-mso-fareast-language:IT'>.<o:p></o:p></span></p>
+normal;background:white'><b style='mso-bidi-font-weight:normal'><span lang=EL
+style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'>Εικόνα
+3: Κώδικας δημιουργίας&nbsp;</span></b><b style='mso-bidi-font-weight:normal'><span
+style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#24292F;mso-fareast-language:IT'>QR&nbsp;CODE</span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:12.0pt;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'>.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><!--[if mso & !supportInlineShapes & supportFields]><span
@@ -2491,7 +2671,7 @@ AAAAAAChBgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADQBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image012.jpg"
 target="&quot;_blank&quot;"><img border=0 width=313 height=525
-src="SmartThrashCollector_file/image004.png"
+src="SmartThrashCollector_file/image005.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Screen_Connect_Account.png"
 v:shapes="Rettangolo_x0020_13"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1037" type="#_x0000_t75" style='width:234.8pt;height:393.8pt'>
@@ -2560,7 +2740,7 @@ AACeBgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADNBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image014.jpg"
 target="&quot;_blank&quot;"><img border=0 width=634 height=560
-src="SmartThrashCollector_file/image005.png"
+src="SmartThrashCollector_file/image006.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Create_account.png"
 v:shapes="Rettangolo_x0020_12"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1036" type="#_x0000_t75" style='width:475.2pt;height:420.1pt'>
@@ -2575,12 +2755,18 @@ mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
 IT'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-normal;background:white'><span class=SpellE><span style='font-size:12.0pt;
-font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#24292F;mso-fareast-language:IT'>Εικόν</span></span><span
+normal;background:white'><span class=SpellE><b style='mso-bidi-font-weight:
+normal'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
+IT'>Εικόν</span></b></span><b style='mso-bidi-font-weight:normal'><span
 style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#24292F;mso-fareast-language:IT'>α 3:&nbsp;<span
-class=SpellE>Κώδικ</span>ας&nbsp;Σύνδεσης&nbsp;Λογαριασμού.<o:p></o:p></span></p>
+"Times New Roman";color:#24292F;mso-fareast-language:IT'>α </span></b><b
+style='mso-bidi-font-weight:normal'><span lang=EL style='font-size:12.0pt;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'>4</span></b><b
+style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+mso-fareast-language:IT'>:&nbsp;<span class=SpellE>Κώδικ</span>ας&nbsp;Σύνδεσης&nbsp;Λογαριασμού.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><!--[if mso & !supportInlineShapes & supportFields]><span
@@ -2642,7 +2828,7 @@ AAAAnwYAAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAzgcAAAAA
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image016.jpg"
 target="&quot;_blank&quot;"><img border=0 width=359 height=605
-src="SmartThrashCollector_file/image006.png"
+src="SmartThrashCollector_file/image007.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Screen_Open_Bin.png"
 v:shapes="Rettangolo_x0020_11"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1035" type="#_x0000_t75" style='width:269.2pt;height:453.9pt'>
@@ -2711,7 +2897,7 @@ ZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADHBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image018.jpg"
 target="&quot;_blank&quot;"><img border=0 width=778 height=325
-src="SmartThrashCollector_file/image007.png"
+src="SmartThrashCollector_file/image008.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Use-of-Bin.png"
 v:shapes="Rettangolo_x0020_10"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1034" type="#_x0000_t75" style='width:583.5pt;height:243.55pt'>
@@ -2721,10 +2907,10 @@ style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
 "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
-"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
-mso-ansi-language:EL;mso-fareast-language:IT'>Εικόνα 4: Κώδικας Σάρωσης Και
-Άνοιγμα Κάδου<o:p></o:p></span></p>
+normal;background:white'><b style='mso-bidi-font-weight:normal'><span lang=EL
+style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'>Εικόνα
+5: Κώδικας Σάρωσης Και Άνοιγμα Κάδου<o:p></o:p></span></b></p>
 
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;background:white;border-collapse:collapse;mso-yfti-tbllook:
@@ -2793,7 +2979,7 @@ nAYAAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAywcAAAAA
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image020.jpg"
   target="&quot;_blank&quot;"><img border=0 width=517 height=420
-  src="SmartThrashCollector_file/image008.png"
+  src="SmartThrashCollector_file/image009.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Design_bin.png"
   v:shapes="Rettangolo_x0020_9"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1033" type="#_x0000_t75" style='width:387.55pt;height:314.9pt'>
@@ -2816,9 +3002,10 @@ IT'>&nbsp;<o:p></o:p></span></p>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
   <td style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-  normal'><span lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-ansi-language:
-  EL;mso-fareast-language:IT'>Εικόνα 5 : Σχεδίαση του κάδου απορριμμάτων<o:p></o:p></span></p>
+  normal'><b style='mso-bidi-font-weight:normal'><span lang=EL
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:
+  IT'>Εικόνα 6 : Σχεδίαση του κάδου απορριμμάτων<o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
@@ -2883,7 +3070,7 @@ ZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADHBwAAAAA=
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image022.jpg"
 target="&quot;_blank&quot;"><img border=0 width=348 height=229
-src="SmartThrashCollector_file/image009.png"
+src="SmartThrashCollector_file/image010.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Design_cover.png"
 v:shapes="Rettangolo_x0020_8"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1032" type="#_x0000_t75" style='width:261.1pt;height:171.55pt'>
@@ -2898,10 +3085,10 @@ style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
   <td style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
   <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-  normal'><span lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-ansi-language:
-  EL;mso-fareast-language:IT'>Εικόνα 6: Σχεδίαση των καπακιών του κάδου&nbsp;<span
-  class=SpellE>απορριμάτων</span><o:p></o:p></span></p>
+  normal'><b style='mso-bidi-font-weight:normal'><span lang=EL
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:
+  IT'>Εικόνα 7: Σχεδίαση των καπακιών του κάδου&nbsp;απορριμμάτων<o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
@@ -2979,21 +3166,29 @@ cnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAMYHAAAAAA==
    <w:anchorlock/>
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image024.jpg"
-  target="&quot;_blank&quot;"><img border=0 width=331 height=184
-  src="SmartThrashCollector_file/image010.png"
+  target="&quot;_blank&quot;"><img border=0 width=331 height=183
+  src="SmartThrashCollector_file/image011.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_Paper.png"
   v:shapes="Rettangolo_x0020_7"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1031" type="#_x0000_t75" style='width:247.95pt;height:137.75pt'>
    <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-  </v:shape><span style='mso-element:field-end'></span><![endif]--><span
-  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
+  </v:shape><span style='mso-element:field-end'></span><![endif]--><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-  normal'><span class=SpellE><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>Εικόν</span></span><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>α 7:&nbsp;<span class=SpellE>Κάδος</span>&nbsp;χα<span class=SpellE>ρτιού</span><o:p></o:p></span></p>
+  normal'><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>Εικόν</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'>α </span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:
+  IT'>8</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>:&nbsp;<span
+  class=SpellE>Κάδος</span>&nbsp;χα<span class=SpellE>ρτιού</span><o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
@@ -3068,21 +3263,29 @@ nAYAAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAywcAAAAA
    <w:anchorlock/>
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image026.jpg"
-  target="&quot;_blank&quot;"><img border=0 width=375 height=205
-  src="SmartThrashCollector_file/image011.png"
+  target="&quot;_blank&quot;"><img border=0 width=375 height=206
+  src="SmartThrashCollector_file/image012.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_Glass.png"
   v:shapes="Rettangolo_x0020_6"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1030" type="#_x0000_t75" style='width:281.1pt;height:154pt'>
    <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-  </v:shape><span style='mso-element:field-end'></span><![endif]--><span
-  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
+  </v:shape><span style='mso-element:field-end'></span><![endif]--><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-  normal'><span class=SpellE><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>Εικόν</span></span><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>α 8:&nbsp;<span class=SpellE>Κάδος</span>&nbsp;<span class=SpellE>γυ</span>αλιού<o:p></o:p></span></p>
+  normal'><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>Εικόν</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'>α </span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:
+  IT'>9</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>:&nbsp;<span
+  class=SpellE>Κάδος</span>&nbsp;<span class=SpellE>γυ</span>αλιού<o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
@@ -3157,21 +3360,29 @@ AAAAAJ8GAABkcnMvX3JlbHMvZTJvRG9jLnhtbC5yZWxzUEsFBgAAAAAFAAUAOgEAAM8HAAAAAA==
    <w:anchorlock/>
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image028.jpg"
-  target="&quot;_blank&quot;"><img border=0 width=354 height=205
-  src="SmartThrashCollector_file/image012.png"
+  target="&quot;_blank&quot;"><img border=0 width=354 height=206
+  src="SmartThrashCollector_file/image013.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_Aluminium.png"
   v:shapes="Rettangolo_x0020_5"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1029" type="#_x0000_t75" style='width:265.45pt;height:154pt'>
    <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-  </v:shape><span style='mso-element:field-end'></span><![endif]--><span
-  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
+  </v:shape><span style='mso-element:field-end'></span><![endif]--><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-  normal'><span class=SpellE><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>Εικόν</span></span><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>α 9:&nbsp;<span class=SpellE>Κάδος</span>&nbsp;α<span class=SpellE>λουμινίου</span><o:p></o:p></span></p>
+  normal'><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>Εικόν</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'>α </span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:
+  IT'>10</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>:&nbsp;<span
+  class=SpellE>Κάδος</span>&nbsp;α<span class=SpellE>λουμινίου</span><o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
@@ -3247,22 +3458,30 @@ ZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADHBwAAAAA=
    <w:anchorlock/>
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image030.jpg"
-  target="&quot;_blank&quot;"><img border=0 width=367 height=202
-  src="SmartThrashCollector_file/image013.png"
+  target="&quot;_blank&quot;"><img border=0 width=367 height=203
+  src="SmartThrashCollector_file/image014.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_organic.png"
   v:shapes="Rettangolo_x0020_4"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1028" type="#_x0000_t75" style='width:275.5pt;height:152.15pt'>
    <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-  </v:shape><span style='mso-element:field-end'></span><![endif]--><span
-  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
+  </v:shape><span style='mso-element:field-end'></span><![endif]--><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-  normal'><span class=SpellE><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>Εικόν</span></span><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>α 10:&nbsp;<span class=SpellE>Κάδος</span>&nbsp;<span class=SpellE>οργ</span>ανικών
-  απ<span class=SpellE>ορριμμάτων</span><o:p></o:p></span></p>
+  normal'><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>Εικόν</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'>α 1</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:
+  IT'>1</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>:&nbsp;<span
+  class=SpellE>Κάδος</span>&nbsp;<span class=SpellE>οργ</span>ανικών απ<span
+  class=SpellE>ορριμμάτων</span><o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
@@ -3338,20 +3557,28 @@ AGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAyAcAAAAA
   </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
   href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image032.jpg"
   target="&quot;_blank&quot;"><img border=0 width=384 height=226
-  src="SmartThrashCollector_file/image014.png"
+  src="SmartThrashCollector_file/image015.png"
   alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Bin_Plastic.png"
   v:shapes="Rettangolo_x0020_3"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
    id="_x0000_i1027" type="#_x0000_t75" style='width:4in;height:169.65pt'>
    <v:imagedata croptop="-65520f" cropbottom="65520f"/>
-  </v:shape><span style='mso-element:field-end'></span><![endif]--><span
-  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
+  </v:shape><span style='mso-element:field-end'></span><![endif]--><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
-  normal'><span class=SpellE><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>Εικόν</span></span><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:#24292F;mso-fareast-language:
-  IT'>α 11:&nbsp;<span class=SpellE>Κάδος</span>&nbsp;πλα<span class=SpellE>στικού</span><o:p></o:p></span></p>
+  normal'><span class=SpellE><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>Εικόν</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#24292F;
+  mso-fareast-language:IT'>α 1</span></b><b style='mso-bidi-font-weight:normal'><span
+  lang=EL style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-ansi-language:EL;mso-fareast-language:
+  IT'>2</span></b><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:#24292F;mso-fareast-language:IT'>:&nbsp;<span
+  class=SpellE>Κάδος</span>&nbsp;πλα<span class=SpellE>στικού</span><o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
@@ -3432,8 +3659,8 @@ AACeBgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADNBwAAAAA=
  <w:anchorlock/>
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image034.jpg"
-target="&quot;_blank&quot;"><img border=0 width=554 height=340
-src="SmartThrashCollector_file/image015.png"
+target="&quot;_blank&quot;"><img border=0 width=554 height=339
+src="SmartThrashCollector_file/image016.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Tinkercad1_cover.png"
 v:shapes="Rettangolo_x0020_2"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1026" type="#_x0000_t75" style='width:415.7pt;height:254.8pt'>
@@ -3507,7 +3734,7 @@ mwYAAGRycy9fcmVscy9lMm9Eb2MueG1sLnJlbHNQSwUGAAAAAAUABQA6AQAAywcAAAAA
 </v:rect><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><a
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image036.jpg"
 target="&quot;_blank&quot;"><img border=0 width=554 height=340
-src="SmartThrashCollector_file/image015.png"
+src="SmartThrashCollector_file/image017.png"
 alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Tinkercad1_Bin.png"
 v:shapes="Rettangolo_x0020_1"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1025" type="#_x0000_t75" style='width:415.7pt;height:254.8pt'>
@@ -3784,16 +4011,18 @@ color:#24292F;mso-fareast-language:IT'><o:p></o:p></span></p>
  </tr>
 </table>
 
-<h2 style='text-align:justify'><a name="_Toc106719387"></a><a
-name="user-content-_toc105962780"><span style='mso-bookmark:_Toc106719387'><span
+<h2 style='text-align:justify'><a name="_Toc106722195"></a><a
+name="_Toc106719387"></a><a name="user-content-_toc105962780"><span
+style='mso-bookmark:_Toc106719387'><span style='mso-bookmark:_Toc106722195'><span
 style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'>Δυσκολίες
-π</span></span></a><span class=SpellE><span style='mso-bookmark:user-content-_toc105962780'><span
-style='mso-bookmark:_Toc106719387'><span style='mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:IT'>ου</span></span></span></span><span style='mso-bookmark:
-user-content-_toc105962780'><span style='mso-bookmark:_Toc106719387'><span
-style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'> <span
-class=GramE>α<span class=SpellE>ντιμετω</span>πίσαμε :</span></span></span></span><span
-style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'><o:p></o:p></span></h2>
+π</span></span></span></a><span class=SpellE><span style='mso-bookmark:user-content-_toc105962780'><span
+style='mso-bookmark:_Toc106719387'><span style='mso-bookmark:_Toc106722195'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'>ου</span></span></span></span></span><span
+style='mso-bookmark:user-content-_toc105962780'><span style='mso-bookmark:_Toc106719387'><span
+style='mso-bookmark:_Toc106722195'><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:IT'> <span class=GramE>α<span class=SpellE>ντιμετω</span>πίσαμε
+:</span></span></span></span></span><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:IT'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -3831,12 +4060,15 @@ color:#24292F;mso-ansi-language:EL;mso-fareast-language:IT'>&nbsp;εκτυπωτ
 πολύ μεγάλος και έπρεπε να διορθώσουμε αρκετά τις&nbsp;<span class=SpellE>παράμετρους</span>&nbsp;εκτύπωσης
 για να μειώσουμε το χρόνο εκτύπωσης<o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719388"></a><span class=SpellE><span
-style='mso-bookmark:_Toc106719388'><span style='mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:IT'>Μελλοντικές</span></span></span><span
-style='mso-bookmark:_Toc106719388'><span style='mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:IT'>&nbsp;<span class=SpellE>εξελίξεις</span>:</span></span><span
-style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'><o:p></o:p></span></h2>
+<h2 style='text-align:justify'><a name="_Toc106722196"></a><a
+name="_Toc106719388"><span style='mso-bookmark:_Toc106722196'></span></a><span
+class=SpellE><span style='mso-bookmark:_Toc106719388'><span style='mso-bookmark:
+_Toc106722196'><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:IT'>Μελλοντικές</span></span></span></span><span
+style='mso-bookmark:_Toc106719388'><span style='mso-bookmark:_Toc106722196'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'>&nbsp;<span
+class=SpellE>εξελίξεις</span>:</span></span></span><span style='mso-fareast-font-family:
+"Times New Roman";mso-fareast-language:IT'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
 normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
@@ -3871,13 +4103,15 @@ normal;background:white'><span lang=EL style='font-size:12.0pt;font-family:
 mso-ansi-language:EL;mso-fareast-language:IT'>4.&nbsp;&nbsp;&nbsp;&nbsp;Να
 γίνει βρούμε άλλον τρόπο κατασκευής του κάδου του πρωτότυπου.<o:p></o:p></span></p>
 
-<h2 style='text-align:justify'><a name="_Toc106719389"></a><a
-name="user-content-_toc105962782"><span style='mso-bookmark:_Toc106719389'></span></a><span
+<h2 style='text-align:justify'><a name="_Toc106722197"></a><a
+name="_Toc106719389"></a><a name="user-content-_toc105962782"><span
+style='mso-bookmark:_Toc106719389'><span style='mso-bookmark:_Toc106722197'></span></span></a><span
 class=SpellE><span style='mso-bookmark:user-content-_toc105962782'><span
-style='mso-bookmark:_Toc106719389'><span style='mso-fareast-font-family:"Times New Roman";
-mso-fareast-language:IT'>Συμ</span></span></span></span><span style='mso-bookmark:
-user-content-_toc105962782'><span style='mso-bookmark:_Toc106719389'><span
-style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'>περάσματα</span></span></span><span
+style='mso-bookmark:_Toc106719389'><span style='mso-bookmark:_Toc106722197'><span
+style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'>Συμ</span></span></span></span></span><span
+style='mso-bookmark:user-content-_toc105962782'><span style='mso-bookmark:_Toc106719389'><span
+style='mso-bookmark:_Toc106722197'><span style='mso-fareast-font-family:"Times New Roman";
+mso-fareast-language:IT'>περάσματα</span></span></span></span><span
 style='mso-fareast-font-family:"Times New Roman";mso-fareast-language:IT'><o:p></o:p></span></h2>
 
 <p class=MsoNormal style='margin-bottom:12.0pt;text-align:justify;line-height:
