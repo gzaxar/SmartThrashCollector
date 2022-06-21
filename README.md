@@ -3600,8 +3600,8 @@ normal;background:white'><!--[if mso & !supportInlineShapes & supportFields]><sp
 style='mso-element:field-begin;mso-field-lock:yes'></span><span
 style='mso-spacerun:yes'> </span>SHAPE <span
 style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect
- id="Rettangolo_x0020_2" o:spid="_x0000_s1027" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Tinkercad1_cover.png"
- href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image034.jpg"
+ id="Rettangolo_x0020_2" o:spid="_x0000_s1027" alt="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image13.png"
+ href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image13.png"
  target="&quot;_blank&quot;" style='width:415.7pt;height:254.8pt;visibility:visible;
  mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
  mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
@@ -3656,7 +3656,7 @@ AACeBgAAZHJzL19yZWxzL2Uyb0RvYy54bWwucmVsc1BLBQYAAAAABQAFADoBAADNBwAAAAA=
 href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image034.jpg"
 target="&quot;_blank&quot;"><img border=0 width=554 height=339
 src="SmartThrashCollector_file/image016.png"
-alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Tinkercad1_cover.png"
+alt="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image13.png"
 v:shapes="Rettangolo_x0020_2"></a></span><![endif]><!--[if mso & !supportInlineShapes & supportFields]><v:shape
  id="_x0000_i1026" type="#_x0000_t75" style='width:415.7pt;height:254.8pt'>
  <v:imagedata croptop="-65520f" cropbottom="65520f"/>
@@ -3674,8 +3674,8 @@ normal;background:white'><!--[if mso & !supportInlineShapes & supportFields]><sp
 style='mso-element:field-begin;mso-field-lock:yes'></span><span
 style='mso-spacerun:yes'> </span>SHAPE <span
 style='mso-spacerun:yes'> </span>\* MERGEFORMAT <span style='mso-element:field-separator'></span><![endif]--><!--[if gte vml 1]><v:rect
- id="Rettangolo_x0020_1" o:spid="_x0000_s1026" alt="https://openedtech.ellak.gr/wp-content/uploads/sites/31/2022/06/Tinkercad1_Bin.png"
- href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/image036.jpg"
+ id="Rettangolo_x0020_1" o:spid="_x0000_s1026" alt="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image14.png"
+ href="https://github.com/gzaxar/SmartThrashCollector/blob/index/SmartThrashCollector_file/Image14.png"
  target="&quot;_blank&quot;" style='width:415.7pt;height:254.8pt;visibility:visible;
  mso-wrap-style:square;mso-left-percent:-10001;mso-top-percent:-10001;
  mso-position-horizontal:absolute;mso-position-horizontal-relative:char;
